@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<iframe src="login.jsp" style="position:absolute;top:0;left:0;width:50%;height:50%;"></iframe>
+<iframe src="register.jsp" style="position:absolute;top:0;left:50%;width:50%;height:50%;"></iframe>
+</body>
+</html>

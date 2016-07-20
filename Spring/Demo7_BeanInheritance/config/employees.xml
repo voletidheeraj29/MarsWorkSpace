@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+"http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+<bean id="birthDate" class="com.util.BirthDate">
+	<property name="date" value="25" />
+	<property name="month" value="07" />
+	<property name="year" value="1979" />
+</bean>
+
+<!-- 
+  parent definition of Employee is having abstract="true"
+  therefore container will not create instance for below
+  bean definition and instead it will throw BeanIsAbstractException
+ -->
+<bean id="employee" class="com.emp.Employee" abstract="false"> 
+	<property name="firstname" value="amit" />
+ 	<property name="lastname" value="deshpande" /> 
+ 	<property name="birthdate" ref="birthDate" />
+</bean>
+
+<!-- following 2 definitions of bean are exactly similar apart from id
+     Instead of defining the same definition multiple times, its better
+     to define it at common place and sub beans will extend from it.
+-->
+<!--  
+<bean id="employee1" class="com.emp.Employee">
+ <property name="firstname" value="amit" />
+ <property name="lastname" value="deshpande" /> 
+ <property name="birthdate" ref="birthDate" />
+</bean>
+
+<bean id="employee2" class="com.emp.Employee">
+ <property name="firstname" value="amit" />
+ <property name="lastname" value="deshpande" /> 
+ <property name="birthdate" ref="birthDate" />
+</bean>
+-->
+
+<!--  definitions of sub/child beans -->
+<bean id="employee1" parent="employee"></bean>
+<bean id="employee2" parent="employee">
+<!-- overriding the inherited property  -->
+<property name="lastname" value="kumar" />
+</bean>
+<bean id="mgr" parent="employee" class="com.emp.Manager">
+<property name="commission" value="5000" />
+</bean>
+
+
+</beans>

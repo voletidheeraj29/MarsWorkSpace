@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Calculator</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+    }
+    
+    #calculator {
+      padding: 4px;
+      border: 5px solid #252c33;
+      height: 400px;
+      width: 230px;
+      margin: 50px auto;
+      background: linear-gradient(to bottom, #cfe7fe 0%, #f3f9ff 50%, #cfe6fe 51%, #b0d2f2 100%);
+      font: 12px/1.2 Segoe UI, sans-serif;
+      box-shadow: 0 0 10px rgba(0, 0, 0, .9), 1px 1px 0 #f5f9fd inset, -1px -1px 0 #f5f9fd inset;
+    }
+    
+    #num:hover {
+      border: 1px solid #ffdb00;
+      background: linear-gradient(to bottom, #fff4e9 0%, #fee2c2 50%, #ffcf6a 51%, #ffec86 100%);
+    }
+    
+    #op:hover {
+      border: 1px solid #ffdb00;
+      background: linear-gradient(to bottom, #fff4e9 0%, #fee2c2 50%, #ffcf6a 51%, #ffec86 100%);
+    }
+    
+    #toggle:hover {
+      border: 1px solid #ffdb00;
+      background: linear-gradient(to bottom, #fff4e9 0%, #fee2c2 50%, #ffcf6a 51%, #ffec86 100%);
+    }
+    
+    #equalto:hover {
+      border: 1px solid #ffdb00;
+      background: linear-gradient(to bottom, #fff4e9 0%, #fee2c2 50%, #ffcf6a 51%, #ffec86 100%);
+    }
+    
+    #equalto1:hover {
+      border: 1px solid #ffdb00;
+      background: linear-gradient(to bottom, #fff4e9 0%, #fee2c2 50%, #ffcf6a 51%, #ffec86 100%);
+    }
+    
+    h1 {
+      text-align: center;
+    }
+    
+    #Input {
+      height: 40px;
+      width: 210px;
+      border: 1px solid #ffdb00;
+    }
+    
+    #num {
+      height: 40px;
+      width: 50px;
+      padding: 10px;
+      color: red;
+      border-radius: 5px;
+      background-color: #FFFFC0;
+      border: 3pt ridge lightgrey"
+
+    }
+    
+    #op {
+      height: 40px;
+      width: 50px;
+      padding: 10px;
+      color: blue;
+      border-radius: 5px;
+      background-color: #99CCFF;
+      border: 3pt ridge lightgrey"
+
+    }
+    
+    #toggle {
+      height: 40px;
+      width: 104px;
+      padding: 10px;
+      color: green;
+      border-radius: 5px;
+      background-color: #ffd9b3;
+    }
+    
+    p {
+      font: 14px/1.2 Verdana;
+      font-weight: bold;
+    }
+    
+    #equalto {
+      height: 40px;
+      width: 50px;
+      padding: 10px;
+      color: green;
+      border-radius: 5px;
+      background-color: #FFFFC0;
+      border: 3pt ridge lightgrey"
+
+    }
+    
+    #equalto1 {
+      height: 40px;
+      width: 104px;
+      padding: 10px;
+      color: green;
+      border-radius: 5px;
+      background-color: #FFFFC0;
+      border: 3pt ridge lightgrey"
+
+    }
+  </style>
+</head>
+
+<body>
+  <section class="cf" id="calculator">
+    <h1>Calculator</h1>
+    <br/>
+    <form name="Calc">
+
+      <input type="number" name="Input" id="Input" />
+      <br/>
+      <br/>
+      <div id="standard">
+        <p>STANDARD</p>
+        <br/>
+        <input type="button" name="allclear" id="op" value="AC" onclick="allClear()" />
+        <input type="button" name="toggle" id="toggle" value="TOGGLE" onclick="switchType()" />
+        <input type="button" name="clear" value=" c " id="op" OnClick="clear()" />
+        <br/>
+
+        <br/>
+
+        <input type="button" name="one" value=" 7 " id="num" OnClick="Calc.Input.value += '7'" />
+        <input type="button" name="two" value=" 8 " id="num" OnClick="Calc.Input.value += '8'" />
+        <input type="button" name="three" value=" 9 " id="num" OnClick="Calc.Input.value += '9'" />
+        <input type="button" name="add" id="op" value=" + " OnClick="Calc.Input.value += ' + '">
+
+        <br/>
+        <br/>
+        <input type="button" name="four" value=" 4 " id="num" OnClick="Calc.Input.value += '4'" />
+        <input type="button" name="five" value=" 5 " id="num" OnClick="Calc.Input.value += '5'" />
+        <input type="button" name="six" value=" 6 " id="num" OnClick="Calc.Input.value += '6'" />
+        <input type="button" name="minus" id="op" value=" - " OnClick="Calc.Input.value += ' - '">
+
+        <br/>
+        <br/>
+
+        <input type="button" name="seven" value=" 1 " id="num" OnClick="Calc.Input.value += '1'" />
+        <input type="button" name="eight" value=" 2 " id="num" OnClick="Calc.Input.value += '2'" />
+        <input type="button" name="nine" value=" 3 " id="num" OnClick="Calc.Input.value += '3'" />
+        <input type="button" name="minus" id="op" value=" x " OnClick="Calc.Input.value += ' * '">
+
+        <br/>
+        <br/>
+        <input type="button" name="zero" value="0" id="num" OnClick="Calc.Input.value += '0'" />
+        <input type="button" name="equal" value="=" id="equalto" OnClick="Calc.Input.value =eval(Calc.Input.value)" />
+        <input type="button" name="decimal" value="." id="num" OnClick="Calc.Input.value += '.'">
+        <input type="button" name="divide" id="op" value=" / " OnClick="Calc.Input.value += ' / '">
+
+      </div>
+
+      <div id="scientific" style="display : none">
+        <p>SCIENTIFIC</p>
+        <br/>
+        <input type="button" name="allclear" id="op" value="AC" onclick="allClear()" />
+        <input type="button" name="toggle" id="toggle" value="TOGGLE" onclick="switchType()" />
+        <input type="button" name="clear" value=" c " id="op" OnClick="clear()" />
+
+        <br/>
+        <br/>
+
+        <input type="button" name="one" id="num" value=" 7 " OnClick="Calc.Input.value += '7'" />
+        <input type="button" name="two" id="num" value=" 8 " OnClick="Calc.Input.value += '8'" />
+        <input type="button" name="three" id="num" value=" 9 " OnClick="Calc.Input.value += '9'" />
+        <input type="button" name="square" id="op" value=" sqr " OnClick="sqr()" />
+
+        <br/>
+        <br/>
+
+        <input type="button" name="four" id="num" value=" 4 " OnClick="Calc.Input.value += '4'" />
+        <input type="button" name="five" id="num" value=" 5 " OnClick="Calc.Input.value += '5'" />
+        <input type="button" name="six" id="num" value=" 6 " OnClick="Calc.Input.value += '6'" />
+        <input type="button" name="square_root" id="op" value=" sqrt " OnClick="sqrt()" />
+
+        <br/>
+        <br/>
+        <input type="button" name="seven" id="num" value=" 1 " OnClick="Calc.Input.value += '1'" />
+        <input type="button" name="eight" id="num" value=" 2 " OnClick="Calc.Input.value += '2'" />
+        <input type="button" name="nine" id="num" value=" 3 " OnClick="Calc.Input.value += '3'" />
+        <input type="button" name="cube" id="op" value=" cube " OnClick="cub()" align="center" />
+
+        <br/>
+        <br/>
+        <input type="button" name="zero" id="num" value="0" OnClick="Calc.Input.value += '0'" />
+        <input type="button" name="equal" id="equalto1" value="=" OnClick="Calc.Input.value = eval(Calc.Input.value)" />
+        <input type="button" name="decimal" value="." id="num" OnClick="Calc.Input.value += ' . '">
+
+      </div>
+    </form>
+  </section>
+</body>
+
+</html>

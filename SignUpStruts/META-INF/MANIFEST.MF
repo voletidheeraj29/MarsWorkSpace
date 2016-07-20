@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SignUpStruts
+Bundle-SymbolicName: SignUpStruts
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: SignUpStruts.jar,
+ MySQL/Connector.J 5.1/mysql-connector-java-5.1.36-bin.jar
+Export-Package: com.demo.actions,
+ com.demo.dao,
+ com.demo.pojo

@@ -1,0 +1,113 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+<style>
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: right;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+/* #search {
+	float: right;
+	padding: 20px;
+}
+
+.searchButton {
+	margin: 0;
+	padding: 5px 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+	border: solid 1px #0076a3;
+	border-right: 0px;
+	background: #0095cd;
+	background: -webkit-gradient(linear, left top, left bottom, from(#00adee),
+		to(#0078a5));
+	background: -moz-linear-gradient(top, #00adee, #0078a5);
+	border-top-right-radius: 5px 5px;
+	border-bottom-right-radius: 5px 5px;
+	height: 40px;
+}
+
+.searchButton:hover {
+	text-decoration: none;
+	background: #007ead;
+	background: -webkit-gradient(linear, left top, left bottom, from(#0095cc),
+		to(#00678e));
+	background: -moz-linear-gradient(top, #0095cc, #00678e);
+} */
+
+/* li a:hover:not(.active) {
+    background-color: #111;
+
+}
+ */
+body {
+	background-image: url('HD.jpg');
+}
+
+.active {
+	background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+
+			
+			
+	<ul>
+		<ul style="float: left; list-style-type: none;">
+			<li><a href="index.jsp">Home</a></li>
+			<li><a href="men.jsp">Men</a></li>
+			<li><a href="women.jsp">Women</a></li>
+			<li><input type="text" class="textInput" name="q" size="50"
+				maxlength="120"> <input type="submit" value="search"
+				class="searchButton">
+	</li>
+			<li>
+		</ul>
+		<ul style="float: right; list-style-type: none;">
+
+			<%
+				String username = "Login";
+				if (request.getAttribute("user1") != null) {
+					username = request.getAttribute("user1").toString();
+				}
+			%>
+
+			<li><a href="register.jsp">Register</a></li>
+			<li><a href="login.jsp"><%=username%></a></li>
+
+
+		</ul>
+	</ul>
+	<!-- <iframe style="position:absolute;top:40;left:0;width:30%;height:50%;background-image:url(boy.jpg)"></iframe>
+<iframe  style="position:absolute;top:40;left:30%;width:40%;height:25%;background-image:url(flip1.jpg)"></iframe>
+<iframe src="" style="position:absolute;top:65;left:30%;width:40%;height:50%;"></iframe>
+<iframe src="" style="position:absolute;top:40;left:70%;width:30%;height:50%;"></iframe> -->
+</body>
+Password is updated
+</body>
+</html>

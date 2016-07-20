@@ -1,0 +1,24 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+<!--if the bean class implements InitializingBean init method is by default called-->
+
+    <bean id="MyBean" class="BeanLifeCycleInterface"
+          init-method="init" 
+	  destroy-method="teardown" >
+	
+        <property name="firstname">
+            <value>sangeeta</value>
+        </property>
+    </bean>
+    
+    <!--  <bean id="b2" class="Bean2"> 
+           
+    </bean>-->
+    
+   <bean id="customBeanPostProcessor" 
+   class="BeanPostPro" /> 
+    
+      
+    
+    
+</beans>

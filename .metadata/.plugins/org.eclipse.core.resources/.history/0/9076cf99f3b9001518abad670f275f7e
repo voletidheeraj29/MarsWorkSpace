@@ -1,0 +1,70 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@page import="java.io.*" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>www.Flipweb.com</title>
+</head>
+<body>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+}
+
+/* li a:hover:not(.active) {
+    background-color: #111;
+
+}
+ */body  {
+    background-image: url('HD.jpg');
+
+}
+.active {
+    background-color: #4CAF50;
+}</style>
+</head>
+<body>
+
+<ul>
+<ul style="float:left;list-style-type:none;">
+<li><a href="index.jsp">Home</a>	
+<li><a href="men.jsp">Men's</a>
+<li><a href="women.jsp">Women's</a>
+<li>
+    </ul>
+  <ul style="float:right;list-style-type:none;">
+ 
+  <%
+  String username="login";
+  if (request.getAttribute("user1") != null) {
+	   username=request.getAttribute("user1").toString();
+  }
+	   %>
+     
+     <li><a href="register.jsp">Register</a></li>
+     <li><a href="login.jsp"><%=username%></a></li>
+    
+ 
+  </ul>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,1102 @@
+
+Dec 23, 2015 10:24:28.14 NEW SESSION
+Dec 23, 2015 10:24:28.14 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 10:24:28.32 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 10:45:44.80 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 10:45:44.88 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 11:31:25.88 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 11:31:25.90 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 11:31:38.40 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 11:32:07.03 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Dec 23, 2015 11:32:07.03 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Dec 23, 2015 11:32:07.03 get_inPrivateContext@chrome://global/content/bindings/autocomplete.xml:157:8
+Dec 23, 2015 11:32:07.04 handleEnter@chrome://global/content/bindings/autocomplete.xml:505:18
+Dec 23, 2015 11:32:07.04 handleKeyPress@chrome://global/content/bindings/autocomplete.xml:479:24
+Dec 23, 2015 11:32:07.04 onKeyPress@chrome://global/content/bindings/autocomplete.xml:415:18
+Dec 23, 2015 11:32:07.04 onxblkeypress@chrome://global/content/bindings/autocomplete.xml:582:8
+Dec 23, 2015 11:32:46.71 [Child 12124] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+Dec 23, 2015 11:32:46.72 [Child 12124] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+Dec 23, 2015 11:33:22.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 11:34:16.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 11:34:16.34 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 11:34:36.80 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 11:34:36.82 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Dec 23, 2015 11:40:39.69 NEW SESSION
+Dec 23, 2015 11:40:39.69 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 11:40:39.71 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Dec 23, 2015 11:56:15.81 NEW SESSION
+Dec 23, 2015 11:56:15.81 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 11:56:15.83 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 12:01:03.71 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 12:01:03.73 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 12:03:13.05 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 12:03:13.07 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 12:04:53.09 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 12:04:53.11 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 12:06:28.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 12:06:28.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 12:11:04.43 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 12:11:04.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 12:21:20.77 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 12:21:20.79 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 12:22:45.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 12:22:45.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 12:43:10.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 12:43:10.59 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 12:47:12.46 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 12:47:12.49 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 12:48:54.08 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 12:48:54.10 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 17:32:12.76 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 17:32:12.79 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 17:36:31.69 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 17:36:31.74 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 17:38:34.12 1450872514127	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Dec 23, 2015 17:38:34.30 1450872514301	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Dec 23, 2015 17:40:09.01 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 17:40:09.06 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 17:43:16.02 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 17:43:16.07 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 23, 2015 17:45:14.62 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 23, 2015 17:45:14.69 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Dec 28, 2015 13:03:08.36 NEW SESSION
+Dec 28, 2015 13:03:08.36 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 13:03:08.70 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 13:03:57.65 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 13:03:57.72 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:00:35.19 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:00:35.23 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:01:10.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:01:10.92 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:01:36.19 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:01:36.22 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:02:07.24 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:02:07.26 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:15:31.22 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:15:31.24 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:16:08.17 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:16:08.19 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:29:28.78 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:29:28.81 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:33:31.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:33:31.46 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:34:59.73 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:34:59.75 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:35:42.75 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:35:42.78 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:37:26.21 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:37:26.23 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 14:51:58.66 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 14:51:58.69 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 15:13:05.16 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 15:13:05.19 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 15:18:27.69 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 15:18:27.71 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 15:25:28.83 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 15:25:28.85 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 15:26:32.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 15:26:32.34 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 15:26:56.82 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 15:26:56.84 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 16:02:38.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 16:02:38.93 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Dec 28, 2015 16:04:09.21 NEW SESSION
+Dec 28, 2015 16:04:09.21 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 16:04:09.23 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 16:06:23.30 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 16:06:23.32 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 28, 2015 16:07:36.39 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 28, 2015 16:07:36.41 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Dec 30, 2015 11:47:13.36 NEW SESSION
+Dec 30, 2015 11:47:13.36 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 30, 2015 11:47:13.52 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 30, 2015 11:54:06.72 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 30, 2015 11:54:06.74 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 30, 2015 11:58:35.76 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 30, 2015 11:58:35.80 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 30, 2015 12:01:18.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 30, 2015 12:01:18.34 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 30, 2015 12:02:24.29 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 30, 2015 12:02:24.32 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 30, 2015 12:08:27.79 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 30, 2015 12:08:27.81 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 30, 2015 12:39:28.53 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 30, 2015 12:39:28.55 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 30, 2015 12:40:26.50 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 30, 2015 12:40:26.52 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Dec 30, 2015 12:42:27.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Dec 30, 2015 12:42:27.40 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 04, 2016 16:20:14.28 NEW SESSION
+Jan 04, 2016 16:20:14.28 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 04, 2016 16:20:14.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 05, 2016 12:05:44.04 NEW SESSION
+Jan 05, 2016 12:05:44.04 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 05, 2016 12:05:44.09 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 06, 2016 11:48:35.64 NEW SESSION
+Jan 06, 2016 11:48:35.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 11:48:35.75 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 11:49:11.82 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 11:49:11.84 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 11:54:42.13 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 11:54:42.16 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:07:01.67 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:07:01.69 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:11:03.69 1452073263695	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Jan 06, 2016 15:11:03.95 1452073263950	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jan 06, 2016 15:12:02.27 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:12:02.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:14:47.81 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:14:47.83 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:15:58.93 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:15:58.95 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:24:35.88 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:24:35.90 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:44:04.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:44:04.28 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:44:21.96 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:44:21.99 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:44:36.58 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:44:36.60 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:45:14.45 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:45:14.48 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:45:42.71 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:45:42.73 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:46:00.12 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:46:00.15 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:46:32.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:46:32.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:48:57.91 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:48:57.94 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 15:59:51.08 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 15:59:51.10 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 16:05:02.06 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 16:05:02.08 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 16:06:00.12 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 16:06:00.14 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 16:10:10.03 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 16:10:10.06 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 16:10:52.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 16:10:52.92 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 16:11:25.07 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 16:11:25.10 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 16:43:15.05 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 16:43:15.26 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 06, 2016 16:45:50.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 06, 2016 16:45:50.93 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 11, 2016 17:10:54.47 NEW SESSION
+Jan 11, 2016 17:10:54.50 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 17:10:54.54 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 17:12:16.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 17:12:16.34 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 17:15:42.34 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 17:15:42.38 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 17:17:22.25 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 17:17:22.31 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 17:28:27.54 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 17:28:27.58 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 17:29:12.69 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 17:29:12.72 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 17:30:22.34 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 17:30:22.36 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 17:37:00.42 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 17:37:00.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 17:37:13.95 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 17:37:13.97 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 17:38:06.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 17:38:06.91 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 18:07:42.22 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 18:07:42.25 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 11, 2016 18:09:36.75 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 11, 2016 18:09:36.78 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 12, 2016 10:28:20.38 NEW SESSION
+Jan 12, 2016 10:28:20.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 10:28:20.39 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 10:29:29.88 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 10:29:29.97 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 10:30:38.51 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 10:30:38.54 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 10:34:05.56 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 10:34:05.59 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 10:36:05.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 10:36:05.65 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:06:22.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:06:22.28 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:13:03.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:13:04.00 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:14:20.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:14:20.59 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:16:12.55 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:16:12.55 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:18:57.83 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:18:57.86 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:19:56.66 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:19:56.70 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:21:46.93 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:21:46.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:22:22.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:22:23.00 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:23:32.83 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:23:32.86 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:25:36.55 1452578136559	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Jan 12, 2016 11:25:36.64 1452578136647	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jan 12, 2016 11:31:30.49 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:31:30.52 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:32:19.60 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:32:19.63 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:33:02.47 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:33:02.50 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:38:37.40 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:38:37.42 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:40:17.97 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:40:17.99 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:40:59.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:40:59.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:42:28.02 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:42:28.04 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:43:19.65 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:43:19.67 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:45:26.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:45:26.18 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:46:12.80 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:46:12.82 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:48:27.92 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:48:27.94 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:51:44.75 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:51:44.78 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:52:50.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:52:50.59 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 11:55:39.49 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 11:55:39.51 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:03:46.62 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:03:46.64 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:04:27.18 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:04:27.21 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:14:04.54 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:14:04.57 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:15:15.20 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:15:15.22 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:16:13.81 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:16:13.83 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:16:58.33 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:16:58.35 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:22:47.59 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:22:47.61 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:23:40.01 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:23:40.04 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:24:22.00 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:24:22.04 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:24:52.65 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:24:52.68 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:27:48.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:27:48.18 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:28:57.53 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:28:57.55 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:30:02.61 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:30:02.63 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:31:44.03 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:31:44.06 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 12, 2016 12:33:14.24 NEW SESSION
+Jan 12, 2016 12:33:14.24 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:33:14.26 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:33:45.86 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:33:45.89 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:35:22.31 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:35:22.34 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:36:00.70 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:36:00.72 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:38:30.65 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:38:30.67 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:39:09.73 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:39:09.75 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:40:49.40 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:40:49.43 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:49:58.29 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:49:58.32 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:50:22.68 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:50:22.72 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:51:45.85 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:51:45.87 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:52:13.79 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:52:13.81 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:53:51.52 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:53:51.55 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:54:27.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:54:27.92 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 12:57:26.48 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 12:57:26.51 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 12, 2016 18:10:13.48 NEW SESSION
+Jan 12, 2016 18:10:13.48 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 18:10:13.50 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 18:12:09.37 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 18:12:09.40 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 18:13:04.62 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 18:13:04.65 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 18:13:36.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 18:13:36.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 18:24:56.66 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 18:24:56.68 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 18:34:35.06 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 18:34:35.09 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 18:38:26.71 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 18:38:26.74 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 12, 2016 18:39:30.71 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 12, 2016 18:39:30.73 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 13, 2016 10:45:51.38 NEW SESSION
+Jan 13, 2016 10:45:51.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 10:45:51.38 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 10:47:06.76 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 10:47:06.78 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 10:50:18.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 10:50:18.91 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 10:57:28.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 10:57:28.38 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 10:59:13.47 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 10:59:13.49 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 11:02:29.30 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 11:02:29.32 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 11:03:48.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 11:03:48.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 11:10:50.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 11:10:50.66 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 11:11:33.17 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 11:11:33.20 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:05:25.13 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:05:25.15 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:06:41.55 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:06:41.58 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:09:19.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:09:19.59 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:16:00.79 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:16:00.81 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:17:03.06 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:17:03.08 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:18:37.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:18:37.59 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:24:40.24 1452668080243	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Jan 13, 2016 12:24:40.32 1452668080324	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jan 13, 2016 12:39:36.61 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:39:36.64 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:41:39.52 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:41:39.55 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:42:22.08 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:42:22.11 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:44:12.55 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:44:12.58 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:44:26.73 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:44:26.75 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:46:00.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:46:00.65 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:50:06.39 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:50:06.41 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 12:53:55.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 12:53:55.92 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 14:08:41.42 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 14:08:41.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 14:23:19.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 14:23:19.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 15:08:44.62 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 15:08:44.65 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 15:10:35.62 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 15:10:35.64 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 15:12:04.84 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 15:12:04.86 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 15:12:32.49 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 15:12:32.51 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 15:13:41.99 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 15:13:42.01 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 15:23:19.95 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 15:23:19.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 15:29:14.33 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 15:29:14.36 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 15:31:00.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 15:31:00.65 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 15:32:24.43 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 15:32:24.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 16:43:42.93 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 16:43:42.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 16:43:52.59 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 16:43:52.61 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 16:47:17.60 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 16:47:17.63 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 16:54:56.97 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 16:54:57.00 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 16:57:22.67 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 16:57:22.70 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:17:10.97 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:17:11.00 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:20:31.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:20:31.91 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:21:05.43 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:21:05.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:21:30.16 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:21:30.19 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:22:16.52 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:22:16.54 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:22:58.10 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:22:58.12 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:24:24.82 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:24:24.84 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:27:16.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:27:16.46 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:27:48.23 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:27:48.25 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:28:20.14 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:28:20.16 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:29:05.16 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:29:05.19 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:29:26.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:29:26.28 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:54:14.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:54:14.40 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:55:10.55 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:55:10.57 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:56:53.12 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:56:53.14 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:57:28.49 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:57:28.51 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:57:59.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:57:59.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:58:24.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:58:24.65 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 18:59:36.46 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 18:59:36.48 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:01:43.43 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:01:43.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:05:22.29 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:05:22.31 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:07:52.06 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:07:52.09 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:08:45.92 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:08:45.94 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:09:18.14 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:09:18.16 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:09:54.20 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:09:54.23 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:11:53.22 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:11:53.24 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:12:26.13 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:12:26.15 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:14:33.48 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:14:33.50 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:14:54.74 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:14:54.76 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:16:19.22 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:16:19.24 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:19:26.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:19:26.46 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:28:17.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:28:17.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:28:56.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:28:56.28 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:29:55.20 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:29:55.22 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:30:46.23 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:30:46.24 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 13, 2016 19:31:28.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 13, 2016 19:31:28.58 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 14, 2016 09:22:30.86 NEW SESSION
+Jan 14, 2016 09:22:30.86 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:22:30.88 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:24:33.06 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:24:33.08 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:25:51.53 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:25:51.56 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:28:30.31 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:28:30.33 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:30:33.74 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:30:33.77 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:31:00.34 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:31:00.36 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:32:07.08 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:32:07.10 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:32:40.52 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:32:40.54 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:34:47.73 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:34:47.75 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:35:37.43 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:35:37.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:36:26.80 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:36:26.82 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:37:45.87 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:37:45.89 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:38:49.93 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:38:49.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:40:26.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:40:26.34 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:42:10.06 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:42:10.08 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:44:35.78 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:44:35.81 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:45:10.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:45:10.66 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 09:45:54.30 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 09:45:54.32 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 11:34:39.38 console.warn: Asynchronous operation was aborted as selection changed.
+Jan 14, 2016 11:38:37.92 console.error: 
+Jan 14, 2016 11:38:37.92   Protocol error (noSuchActor): No such actor for ID: server1.conn1.animationsActor23
+Jan 14, 2016 11:48:11.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 11:48:11.66 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 11:51:53.22 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 11:51:53.24 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 11:54:08.12 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 11:54:08.14 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 11:55:38.46 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 11:55:38.48 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 11:57:04.81 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 11:57:04.83 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 11:58:33.84 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 11:58:33.87 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 11:59:17.27 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 11:59:17.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:00:44.33 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:00:44.35 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:01:36.34 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:01:36.36 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:02:13.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:02:13.67 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:02:38.42 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:02:38.44 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:04:35.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:04:36.00 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:07:35.76 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:07:35.78 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:11:04.58 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:11:04.61 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:11:56.35 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:11:56.37 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:12:21.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:12:21.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:13:30.27 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:13:30.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:14:09.43 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:14:09.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 12:14:47.52 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 12:14:47.55 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 15:15:16.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 15:15:16.92 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 15:16:04.50 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 15:16:04.52 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 15:16:35.39 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 15:16:35.41 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 16:16:17.73 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 16:16:17.75 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 16:16:54.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 16:16:54.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 16:24:11.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 16:24:12.00 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 16:28:14.04 1452769094043	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Jan 14, 2016 16:28:14.26 1452769094264	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jan 14, 2016 17:08:39.06 console.error: 
+Jan 14, 2016 17:08:39.07   Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+Jan 14, 2016 17:34:09.78 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 17:34:09.90 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 17:37:42.07 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 17:37:42.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 17:42:15.61 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 17:42:15.63 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 17:54:53.76 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 17:54:53.78 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 17:56:23.38 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 17:56:23.41 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 18:04:14.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 18:04:14.47 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 18:05:44.37 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 18:05:44.39 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 18:07:10.60 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 18:07:10.62 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 14, 2016 18:09:23.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 14, 2016 18:09:23.28 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 15, 2016 10:26:35.15 NEW SESSION
+Jan 15, 2016 10:26:35.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 10:26:35.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 10:38:47.84 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 10:38:47.86 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 10:46:40.83 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 10:46:40.84 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 14:58:35.36 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 14:58:35.40 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 15:03:49.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:03:50.00 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 15, 2016 15:07:15.43 NEW SESSION
+Jan 15, 2016 15:07:15.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:07:15.46 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 15:08:06.68 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:08:06.70 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 15:11:42.87 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:11:42.89 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 15:12:49.18 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:12:49.20 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 15:14:14.56 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:14:14.58 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 15:15:37.04 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:15:37.06 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 15:17:15.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:17:15.59 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 15:17:50.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:17:50.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 15, 2016 15:19:42.13 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:21:32.70 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 15, 2016 15:21:32.72 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 18, 2016 12:37:23.64 NEW SESSION
+Jan 18, 2016 12:37:23.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 12:37:23.70 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 18, 2016 17:29:45.39 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 17:29:45.52 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 18, 2016 17:31:55.82 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 17:31:55.85 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 18, 2016 17:33:32.13 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 17:33:32.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 18, 2016 17:34:44.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 17:34:44.46 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 18, 2016 17:36:46.04 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 17:36:46.07 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 18, 2016 17:42:48.01 1453119168013	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Jan 18, 2016 17:42:48.24 1453119168233	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jan 18, 2016 17:45:44.66 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 17:45:44.68 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 18, 2016 18:02:41.27 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 18:02:41.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 18, 2016 18:03:21.70 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 18:03:21.72 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 18, 2016 18:04:26.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 18:04:27.01 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 18, 2016 18:06:29.25 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 18, 2016 18:06:29.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 19, 2016 10:48:18.68 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 19, 2016 10:48:18.76 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 19, 2016 10:52:43.86 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 19, 2016 10:52:43.88 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 19, 2016 15:53:59.00 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 19, 2016 15:53:59.02 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 21, 2016 15:22:33.96 NEW SESSION
+Jan 21, 2016 15:22:33.96 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 21, 2016 15:22:33.98 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 21, 2016 15:23:05.58 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 21, 2016 15:23:05.60 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 21, 2016 15:30:16.37 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 21, 2016 15:30:16.39 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 21, 2016 15:31:29.82 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 21, 2016 15:31:29.84 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 21, 2016 16:15:32.76 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 21, 2016 16:15:32.79 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 21, 2016 16:28:50.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 21, 2016 16:28:50.35 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 21, 2016 18:07:49.67 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 21, 2016 18:07:49.69 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 21, 2016 18:38:12.30 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 21, 2016 18:38:12.32 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 22, 2016 11:54:52.00 NEW SESSION
+Jan 22, 2016 11:54:52.00 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 11:54:52.03 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 13:12:44.53 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 13:12:44.56 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 13:13:41.34 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 13:13:41.36 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 13:15:31.51 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 13:15:31.53 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 13:17:02.75 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 13:17:02.77 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 13:18:06.42 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 13:18:06.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 13:20:08.87 1453449008873	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Jan 22, 2016 13:20:09.12 1453449009119	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jan 22, 2016 13:35:47.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 13:35:47.65 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 14:57:43.05 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 14:57:43.07 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 15:42:45.87 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 15:42:45.88 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 15:46:09.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 15:46:09.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 15:50:12.00 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 15:50:12.02 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 15:52:43.79 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 15:52:43.81 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 15:55:19.39 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 15:55:19.43 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 22, 2016 15:56:38.44 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 22, 2016 15:56:38.48 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 25, 2016 11:25:54.68 NEW SESSION
+Jan 25, 2016 11:25:54.68 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 11:25:54.69 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 11:35:57.75 1453701957752	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Jan 25, 2016 11:35:57.93 1453701957943	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Jan 25, 2016 12:20:03.31 NEW SESSION
+Jan 25, 2016 12:20:03.31 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 12:20:03.38 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 12:26:24.83 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 12:26:24.85 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 12:28:57.31 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 12:28:57.33 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 12:30:35.02 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 12:30:35.05 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 12:34:33.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 12:34:33.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 12:55:32.52 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 12:55:32.54 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 12:57:51.35 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 12:57:51.37 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 12:59:26.94 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 12:59:26.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 13:05:10.31 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 13:05:10.33 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 13:13:04.60 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 13:13:04.63 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 13:21:10.19 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 13:21:10.21 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 13:31:47.42 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 13:31:47.44 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 13:37:45.48 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 13:37:45.51 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 25, 2016 14:34:30.52 NEW SESSION
+Jan 25, 2016 14:34:30.52 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 14:34:30.55 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 14:49:36.83 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 14:49:36.85 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 18:11:28.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 18:11:28.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 18:14:42.73 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 18:14:42.73 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 18:18:37.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 18:18:37.60 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 18:31:40.24 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 18:31:40.26 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:03:27.27 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:03:27.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:04:56.05 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:04:56.07 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:06:04.43 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:06:04.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:06:38.42 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:06:38.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:07:11.14 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:07:11.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:07:57.16 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:07:57.18 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:09:53.07 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:09:53.10 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:14:25.78 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:14:25.81 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:22:55.61 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:22:55.63 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:24:40.58 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:24:40.61 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:32:45.16 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:32:45.18 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:33:48.65 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:33:48.68 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:35:04.48 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:35:04.51 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:38:01.72 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:38:01.76 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:38:36.93 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:38:36.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:39:12.97 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:39:12.99 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:39:46.70 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:39:46.74 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 25, 2016 19:41:23.75 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:41:23.78 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 25, 2016 19:44:16.26 NEW SESSION
+Jan 25, 2016 19:44:16.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 25, 2016 19:44:16.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 27, 2016 12:59:16.95 NEW SESSION
+Jan 27, 2016 12:59:16.95 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 27, 2016 12:59:16.98 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 27, 2016 12:59:55.16 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 27, 2016 12:59:55.19 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 27, 2016 13:00:08.13 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 27, 2016 13:00:08.14 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 27, 2016 13:02:23.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 27, 2016 13:02:24.01 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 27, 2016 13:03:47.84 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 27, 2016 13:03:47.86 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 27, 2016 17:41:06.43 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 27, 2016 17:41:06.46 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 27, 2016 17:47:38.82 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 27, 2016 17:47:38.84 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 27, 2016 17:50:36.35 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 27, 2016 17:50:36.38 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 27, 2016 17:54:38.54 1453897478548	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Jan 27, 2016 17:54:38.79 1453897478792	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Jan 28, 2016 13:03:38.07 NEW SESSION
+Jan 28, 2016 13:03:38.07 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 28, 2016 13:03:38.08 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 28, 2016 15:37:24.20 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 28, 2016 15:37:24.21 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 28, 2016 15:42:40.75 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 28, 2016 15:42:40.77 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 28, 2016 15:44:00.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 28, 2016 15:44:00.28 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 28, 2016 16:35:30.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 28, 2016 16:35:30.92 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 28, 2016 16:59:37.50 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 28, 2016 16:59:37.52 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 28, 2016 17:04:11.79 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 28, 2016 17:04:11.81 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 28, 2016 17:10:50.61 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 28, 2016 17:10:50.64 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 28, 2016 17:17:06.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 28, 2016 17:17:06.37 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 28, 2016 17:17:43.93 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 28, 2016 17:17:43.96 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jan 29, 2016 12:23:47.54 NEW SESSION
+Jan 29, 2016 12:23:47.54 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 29, 2016 12:23:47.57 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 29, 2016 12:27:17.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 29, 2016 12:27:17.67 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jan 29, 2016 12:28:12.50 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Jan 29, 2016 12:28:12.53 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Feb 01, 2016 14:06:08.52 NEW SESSION
+Feb 01, 2016 14:06:08.52 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 01, 2016 14:06:08.62 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 01, 2016 16:12:00.04 1454323320008	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Feb 01, 2016 16:12:00.28 1454323320273	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Feb 01, 2016 16:12:01.41 1454323321393	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Win error 2 during operation DirectoryIterator.prototype.next on file C:\Users\dheerajv\AppData\Roaming\Mozilla\Firefox\Profiles\mdi3ivc0.default\features (The system cannot find the file specified.
+Feb 01, 2016 16:12:01.41 
+Feb 01, 2016 16:12:01.41 ) ((unknown module)) No traceback available
+Feb 01, 2016 17:11:12.18 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 01, 2016 17:11:12.37 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 01, 2016 17:11:43.61 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 01, 2016 17:11:43.67 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 01, 2016 17:21:33.06 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 01, 2016 17:21:33.08 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 01, 2016 18:59:11.37 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 01, 2016 18:59:11.39 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 01, 2016 19:05:22.79 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 01, 2016 19:05:22.81 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 01, 2016 19:09:37.21 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 01, 2016 19:09:37.23 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Feb 02, 2016 10:36:13.84 NEW SESSION
+Feb 02, 2016 10:36:13.84 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 02, 2016 10:36:13.84 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 02, 2016 14:51:11.72 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 02, 2016 14:51:11.72 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 02, 2016 14:54:57.41 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 02, 2016 14:54:57.43 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 02, 2016 15:01:15.91 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 02, 2016 15:01:15.93 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 02, 2016 15:02:37.13 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 02, 2016 15:02:37.16 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Feb 02, 2016 15:42:06.90 NEW SESSION
+Feb 02, 2016 15:42:06.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 02, 2016 15:42:07.02 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 02, 2016 15:45:55.03 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 02, 2016 15:45:55.06 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 02, 2016 15:58:27.41 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 02, 2016 15:58:27.43 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 02, 2016 16:12:00.47 1454409720473	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Feb 02, 2016 16:12:00.70 1454409720701	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Feb 02, 2016 16:12:01.35 1454409721355	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Win error 2 during operation DirectoryIterator.prototype.next on file C:\Users\dheerajv\AppData\Roaming\Mozilla\Firefox\Profiles\mdi3ivc0.default\features (The system cannot find the file specified.
+Feb 02, 2016 16:12:01.35 
+Feb 02, 2016 16:12:01.35 ) ((unknown module)) No traceback available
+Feb 02, 2016 17:50:36.30 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 02, 2016 17:50:36.33 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Feb 03, 2016 11:01:31.42 NEW SESSION
+Feb 03, 2016 11:01:31.42 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 11:01:31.42 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 11:31:03.92 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 11:31:03.92 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Feb 03, 2016 11:35:54.89 NEW SESSION
+Feb 03, 2016 11:35:54.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 11:35:54.91 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 11:41:47.43 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 11:41:47.45 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 11:47:19.66 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 11:47:19.68 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 11:49:54.01 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 11:49:54.03 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 12:32:45.37 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 12:32:45.37 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 12:37:50.77 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 12:37:50.79 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 12:38:01.17 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 12:38:01.19 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 12:49:40.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 12:49:40.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 12:50:08.10 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 12:50:08.12 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 12:52:49.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 12:52:49.34 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 16:34:56.34 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 16:34:56.37 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 17:12:04.13 1454499724133	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+Feb 03, 2016 17:12:04.40 1454499724403	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Feb 03, 2016 17:12:05.62 1454499725619	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Win error 2 during operation DirectoryIterator.prototype.next on file C:\Users\dheerajv\AppData\Roaming\Mozilla\Firefox\Profiles\mdi3ivc0.default\features (The system cannot find the file specified.
+Feb 03, 2016 17:12:05.62 
+Feb 03, 2016 17:12:05.62 ) ((unknown module)) No traceback available
+Feb 03, 2016 17:19:36.37 console.error: 
+Feb 03, 2016 17:19:36.38   Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+Feb 03, 2016 18:15:28.30 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:15:28.38 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:16:27.77 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:16:27.84 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:17:20.57 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:17:20.59 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:17:59.29 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:17:59.33 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:25:40.18 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:25:40.20 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:31:41.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:31:41.91 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:35:22.66 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:35:22.68 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:45:02.15 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:45:02.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:47:28.46 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:47:28.49 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:48:57.42 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:48:57.44 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:50:15.00 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:50:15.02 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:52:20.45 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:52:20.47 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:56:22.39 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:56:22.41 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:56:49.87 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:56:49.89 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 18:57:11.02 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 18:57:11.04 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 19:00:09.34 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 19:00:09.36 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 03, 2016 19:03:27.51 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 03, 2016 19:03:27.54 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Feb 04, 2016 11:02:27.07 NEW SESSION
+Feb 04, 2016 11:02:27.07 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:02:27.16 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 04, 2016 11:12:08.98 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:12:09.01 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 04, 2016 11:12:55.47 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:12:55.49 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 04, 2016 11:14:18.62 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:14:18.65 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 04, 2016 11:16:22.53 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:16:22.55 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 04, 2016 11:17:47.70 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:17:47.73 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 04, 2016 11:26:29.51 DevToolsUtils.dbg_assert is deprecated! Use DevToolsUtils.assert instead!
+Feb 04, 2016 11:26:29.51 dbg_assert@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:449:13
+Feb 04, 2016 11:26:29.52 TabActor.prototype.sources@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:897:7
+Feb 04, 2016 11:26:29.52 ThreadActor.prototype.sources@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:509:5
+Feb 04, 2016 11:26:29.52 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:627:5
+Feb 04, 2016 11:26:29.52 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1599:15
+Feb 04, 2016 11:26:29.52 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:569:11
+Feb 04, 2016 11:26:29.52 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Feb 04, 2016 11:26:29.52 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Feb 04, 2016 11:26:29.52 console.warn: DevToolsUtils.dbg_assert is deprecated! Use DevToolsUtils.assert instead!
+Feb 04, 2016 11:26:29.52 dbg_assert@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:449:13
+Feb 04, 2016 11:26:29.52 TabActor.prototype.sources@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:897:7
+Feb 04, 2016 11:26:29.52 ThreadActor.prototype.sources@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:509:5
+Feb 04, 2016 11:26:29.52 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:627:5
+Feb 04, 2016 11:26:29.52 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1599:15
+Feb 04, 2016 11:26:29.53 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:569:11
+Feb 04, 2016 11:26:29.53 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Feb 04, 2016 11:26:29.53 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Feb 04, 2016 11:26:29.53 
+Feb 04, 2016 11:31:48.88 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:31:48.90 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 04, 2016 11:32:28.69 DevToolsUtils.dbg_assert is deprecated! Use DevToolsUtils.assert instead!
+Feb 04, 2016 11:32:28.69 dbg_assert@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:449:13
+Feb 04, 2016 11:32:28.69 TabActor.prototype.sources@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:897:7
+Feb 04, 2016 11:32:28.69 ThreadActor.prototype.sources@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:509:5
+Feb 04, 2016 11:32:28.69 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:627:5
+Feb 04, 2016 11:32:28.69 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1599:15
+Feb 04, 2016 11:32:28.69 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:569:11
+Feb 04, 2016 11:32:28.70 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Feb 04, 2016 11:32:28.70 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Feb 04, 2016 11:32:28.70 console.warn: DevToolsUtils.dbg_assert is deprecated! Use DevToolsUtils.assert instead!
+Feb 04, 2016 11:32:28.70 dbg_assert@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:449:13
+Feb 04, 2016 11:32:28.70 TabActor.prototype.sources@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:897:7
+Feb 04, 2016 11:32:28.70 ThreadActor.prototype.sources@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:509:5
+Feb 04, 2016 11:32:28.70 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:627:5
+Feb 04, 2016 11:32:28.70 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1599:15
+Feb 04, 2016 11:32:28.70 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:569:11
+Feb 04, 2016 11:32:28.70 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Feb 04, 2016 11:32:28.70 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Feb 04, 2016 11:32:28.70 
+Feb 04, 2016 11:47:54.30 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:47:54.33 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 04, 2016 11:51:32.28 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:51:32.30 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 04, 2016 11:54:15.48 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:54:15.50 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Feb 04, 2016 11:56:28.63 NEW SESSION
+Feb 04, 2016 11:56:28.63 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 11:56:28.65 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 04, 2016 12:09:13.86 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 04, 2016 12:09:13.88 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Feb 12, 2016 16:50:42.06 NEW SESSION
+Feb 12, 2016 16:50:42.06 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 12, 2016 16:50:42.24 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 12, 2016 16:51:44.65 1455276104651	addons.productaddons	WARN	File download failed: 0x8000ffff
+
+Feb 22, 2016 12:22:33.64 NEW SESSION
+Feb 22, 2016 12:22:33.64 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 22, 2016 12:22:33.97 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 22, 2016 12:24:30.78 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 22, 2016 12:24:30.81 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 22, 2016 12:26:34.26 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 22, 2016 12:26:34.28 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 22, 2016 12:27:14.19 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 22, 2016 12:27:14.22 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 22, 2016 12:28:04.32 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 22, 2016 12:28:04.34 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Feb 22, 2016 18:17:21.23 NEW SESSION
+Feb 22, 2016 18:17:21.23 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 22, 2016 18:17:21.24 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 22, 2016 18:17:57.40 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 22, 2016 18:17:57.43 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 22, 2016 18:20:47.28 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 22, 2016 18:20:47.31 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 22, 2016 18:22:31.21 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 22, 2016 18:22:31.23 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Feb 22, 2016 18:23:59.41 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 22, 2016 18:23:59.43 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Feb 29, 2016 16:32:28.27 NEW SESSION
+Feb 29, 2016 16:32:28.30 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+Feb 29, 2016 16:32:28.30 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+May 26, 2016 11:58:11.59 NEW SESSION
+May 26, 2016 11:58:11.59 [GFX1]: Potential driver version mismatch ignored due to missing DLLs
+May 26, 2016 11:58:12.29 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+May 26, 2016 12:00:14.58 1464244214581	addons.update-checker	WARN	Update manifest for bingsearch.full@microsoft.com did not contain an updates property
+May 26, 2016 12:00:14.73 1464244214734	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+May 26, 2016 12:00:16.01 1464244216010	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Win error 2 during operation DirectoryIterator.prototype.next on file C:\Users\dheerajv\AppData\Roaming\Mozilla\Firefox\Profiles\mdi3ivc0.default\features (The system cannot find the file specified.
+May 26, 2016 12:00:16.01 
+May 26, 2016 12:00:16.01 ) ((unknown module)) No traceback available
